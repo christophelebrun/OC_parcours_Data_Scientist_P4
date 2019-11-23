@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+consignes/
+data/
+plots/
+models/
+kernels/
+*.ft
+*.csv
+projet4_misc.ipynb
+
+
+
+
+
+
